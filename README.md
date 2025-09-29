@@ -1,3 +1,4 @@
+Propietario: Francisco
 # Ejem02_2526_Restauracion
 
 # H1
